@@ -6,7 +6,7 @@ import TelegramBot from 'node-telegram-bot-api';
 
 // --- Konfiguratsiya (alohida .env fayl o'rniga shu yerda) ---
 const BOT_TOKEN = '7440125833:AAFrWVjkQTTMO991fbR9uWmeEzh7BFR8rE0';
-const ADMIN_CHAT_ID = '1847596793';
+const ADMIN_CHAT_ID = ['1847596793' , '363452247'];
 const PORT = 6000;
 // -----------------------------------------------------------
 
